@@ -1,2 +1,2 @@
 # world-management-ui
-World management API.
+World management UI.
